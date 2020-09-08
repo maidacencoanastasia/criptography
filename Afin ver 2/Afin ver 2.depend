@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1599593744 source:d:\Ñ++\afin ver 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<algorithm>
+
