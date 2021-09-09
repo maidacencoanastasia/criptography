@@ -1,5 +1,5 @@
 # Affine Cipher
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import sys, pyperclip, cryptomath, random
 SYMBOLS = """ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~""" # note the space at the front
