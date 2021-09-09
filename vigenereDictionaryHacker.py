@@ -1,5 +1,5 @@
 # Vigenere Cipher Dictionary Hacker
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import detectEnglish, vigenereCipher, pyperclip
 
