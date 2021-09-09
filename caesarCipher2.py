@@ -1,5 +1,5 @@
 # Caesar Cipher
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import pyperclip
 
