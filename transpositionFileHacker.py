@@ -1,5 +1,5 @@
 # Transposition File Hacker
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import sys, time, os, sys, transpositionDecrypt, detectEnglish
 
