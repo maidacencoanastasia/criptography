@@ -1,5 +1,5 @@
 # Transposition Cipher Decryption
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import math, pyperclip
 
