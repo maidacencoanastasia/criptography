@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631188357 source:c:\users\user\desktop\c++\vigeneer\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
