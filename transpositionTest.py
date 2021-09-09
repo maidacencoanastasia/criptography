@@ -1,5 +1,5 @@
 # Transposition Cipher Test
-# http://inventwithpython.com/hacking (BSD Licensed)
+
 
 import random, sys, transpositionEncrypt, transpositionDecrypt
 
